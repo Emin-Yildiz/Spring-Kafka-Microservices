@@ -1,4 +1,4 @@
-package com.example.database.Listener;
+package com.example.database.listener;
 
 import com.example.database.service.UserService;
 import com.fasterxml.jackson.core.JsonProcessingException;
